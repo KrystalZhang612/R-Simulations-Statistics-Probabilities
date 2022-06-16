@@ -67,6 +67,3 @@ SimulateFunc <- function (p, q, nreps) {
 }													
 
 SimulateFunc(0.4,0.8,100000)
-
-
-
