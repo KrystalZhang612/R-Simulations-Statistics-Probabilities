@@ -34,5 +34,3 @@ print(varL1+varL2)
 print(MinusSquareEX-MinusEXSquare)
 #difference
 print (MinusSquareEX-MinusEXSquare-varL1-varL2)
-
-
